@@ -1,16 +1,16 @@
 ## Tom Lovie's README
 # Professor Mohawk College CSAIT
-  Have taught courses:
-    - Data Structures and Algorithms 
-    - Android App Development 
-    - Advanced Database 
-    - Introduction to Programming 
-    - Introduction to Networking
-    - Software Quality and Testing
-    - Server Side Web Development
+Courses that I have taught:
+- Data Structures and Algorithms 
+- Android App Development 
+- Advanced Database 
+- Introduction to Programming 
+- Introduction to Networking
+- Software Quality and Testing
+- Server Side Web Development
 
-  Fun Fact: 
-    - Currently knitting an Icelandic wool sweater
+Fun Fact: 
+- Currently knitting an Icelandic wool sweater
 
 <!--
 **tom-lovie/tom-lovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
